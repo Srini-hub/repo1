@@ -1,2 +1,4 @@
 hi this is a simple text file
 first edit in text file.
+one more edit.
+third edit.
